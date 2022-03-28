@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kdhoermann.dpifont.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kdhoermann.dpifont.MyBundle
 
 class MyApplicationService {
 
